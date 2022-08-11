@@ -1015,7 +1015,7 @@
         ["xpath=//input[@id='username']", "xpath:attributes"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "7-40+123@bk.ru"
+
     }, {
       "id": "92aed52c-5525-4e68-8c4d-8922a789f5e6",
       "comment": "",
